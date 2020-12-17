@@ -1,0 +1,11 @@
+
+flask
+redis
+gunicorn
+pandas
+numpy
+statsmodels
+
+
+
+
